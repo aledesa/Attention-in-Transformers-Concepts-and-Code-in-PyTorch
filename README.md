@@ -8,4 +8,4 @@ These notes are for my own backups and for future readings. All mistakes are my 
 
 Screenshots and quotes are taken as they appear or modified from the ones on the course website.
 
-<img src="images/softmax-V.jpg" width="400px" />
+<img src="images/softmax-V.jpg" width="700px" />
