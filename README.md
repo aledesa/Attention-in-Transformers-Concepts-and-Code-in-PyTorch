@@ -1,6 +1,6 @@
 # Attention in Transformers: Concepts and Code in PyTorch
 
-Notes form the short course [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch) by Josh Starmer.
+Notes form the short course [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch) by [Josh Starmer](https://statquest.org/about/).
 
 # Disclaimer
 
